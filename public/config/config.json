@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0E116154D53C89803af778AeD251103096b7A67D",
+  "SCAN_LINK": "https://www.etherscan.io/address/0x0E116154D53C89803af778AeD251103096b7A67D#code",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet ",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Knights of Chain",
+  "SYMBOL": "KNIGHT",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/knights-of-chain",
+  "SHOW_BACKGROUND": true
+}
